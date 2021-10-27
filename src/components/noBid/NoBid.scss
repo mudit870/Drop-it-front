@@ -1,0 +1,68 @@
+.NoBidBox{
+    width: 300px;
+    margin: 100px auto 10px auto;
+
+    .NoBidDetails{
+        display: flex;
+        margin-left: 0px;
+        margin-bottom: 70px;
+    }
+    .finalStatus{
+        display: flex;
+        margin-left: 150px;
+    }
+    .finalStatus img{
+        width: 40px;
+        height: 40px;
+    }
+    .finalStatus .ssline{
+        margin: 0;
+    }
+    .vnumber{
+        display: flex;
+        background-color: #c4c4c4;
+        width: 200px;
+        height: 40px;
+        // padding-top: 10px;
+
+        img{
+            margin-left: 100px;
+        }
+        p{
+            margin: 0;
+        }
+    }
+    .btn button{
+        border: none;
+        background-color: #c4c4c4;
+    }
+    .payTick{
+        width: 30px;
+        height: 30px;
+        margin-top: 4px;
+        border-radius: 50px;
+        margin-left: 25px;
+        background-color: #fff;
+    }
+    .orderFrom{
+        width: 240px;
+        background-color: #fff;
+        padding-left: 10px;
+
+        p{
+            width: 200px;
+        }
+    }
+    .line{
+        margin-top: 40px;
+    }
+    .ssline{
+        margin-top: 10px;
+    }
+    .truck{
+        margin-top: 30px;
+    }
+    .otp p{
+        margin-top: 1px;
+    }
+}

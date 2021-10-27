@@ -1,0 +1,91 @@
+.dropperPickerbox{
+    width: 800px;
+    margin: 70px auto 10px auto;
+
+    .pickDropper{
+        background-color: #fff;
+        width: 200px;
+        height: 40px;
+        text-align: center;
+    }
+    .pickerData{
+        display: flex;
+        background-color: #fff;
+        margin-top: 20px;
+    }
+    .pickerImg{
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        border: 1px solid #2329d6;
+    }
+    .pickerImg svg{
+        margin-left: 13px;
+        margin-top: 3px;
+    }
+    .pickerRating{
+        margin-top: 4px;
+        text-align: center;
+    }
+    .pickerInfo{
+        margin-left: 20px;
+        margin-right: 20px;
+        padding-top: 20px;
+        height: auto;
+    }
+    .name{
+        margin-top: 20px;
+        width: 150px;
+    }
+    .delivery{
+        background-color: #e7dddd;
+        height: 60px;
+        width: 70px;
+        border-radius: 50%;
+    }
+    .delivery p{
+        color: #09677b;
+        margin: -12px 0 0;
+    }
+    .delivery svg{
+        margin-left: -8px;
+        height: 40px;
+        width: 40px;
+    }
+    .vehicle{
+        width: 250px;
+    }
+    .vehicle svg{
+        margin-left: 10px;
+    }
+    .vehicle h4{
+        margin: 0;
+    }
+    .time{
+        width: 250px;
+    }
+    .time svg{
+        margin-left: 25px;
+    }
+    .time h4{
+        margin: 0;
+    }
+    .pay{
+        width: 200px;
+    }
+    .pay svg{
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .pay h4{
+        margin: 0;
+        padding-left: 6px;
+    }
+    .pick{
+        width: 150px;
+    }
+    .pick h4{
+        margin: 0;
+        padding-left: 8px;
+    }
+}

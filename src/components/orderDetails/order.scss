@@ -1,0 +1,55 @@
+ .orderListTable{
+     width: 1100px;
+     margin: 80px auto 10px auto;
+    
+ .orderList ul{
+     display: flex;
+     padding-left: 0;
+ }
+ .orderList ul li{
+        list-style-type: none;
+        margin: 10px 0px;
+        font-weight: bold;
+        width: 135px;
+    }
+    .first{
+        margin-left: 2px;
+    }
+    .search{
+        display: flex;
+    }
+    .search svg{
+        margin-right: -10px;
+        background-color: #fff;
+        width: 50px;
+    }
+    .search input{
+        width: 650px;
+        height: 37px;
+    }
+    .filter{
+        display: flex;
+        margin-left: 20px;
+    }
+    .filter h3{
+        margin-top: 6px;
+    }
+    .filter select{
+        margin-left: 10px;
+        height: 37px;
+        width: 50px;
+    }
+    table{
+        align-items: center;
+        text-align: center;
+        // border: 1px solid black;
+    }
+    th{
+        width: 155px;
+        border: 2px solid black;
+    }
+    .cell{
+        height: 50px;
+        border: 1px solid black;
+    }
+}

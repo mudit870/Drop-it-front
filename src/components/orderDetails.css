@@ -1,0 +1,115 @@
+.orderdetails-box{
+    border: 1px solid #687280;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #9ca3af;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 8px;
+    margin: 80px auto 10px auto;
+    width: 750px;
+    height: 500px;
+}
+.orderdetails-from-to{
+    margin: 30px;
+}
+.orderdetails-from-to button{
+    border: none;
+}
+
+.orderdetails-from{
+    width: 200px;
+    height: 30px;
+    margin: 10px 1px 10px 15px;
+    text-align: center;
+    border-radius: 4px;
+    background: #fff;
+}
+.orderdetails-map{
+    height: 65px;
+    width: 65px;
+    font-size: 15px;
+    margin: 10px 1px;
+    border-radius: 50%;
+    background: #c4c4c4;
+}
+.oMap{
+    margin-left:3px;
+    margin-top: 5px;
+}
+.orderdetails-to{
+    width: 200px;
+    height: 30px;
+    margin: 10px 5px 10px 1px;
+    text-align: center;
+    border-radius: 4px;
+    background: #fff;
+}
+.order-map{
+    padding: 5px 22px 0px 16px;
+}
+.nextimg{
+    background: #fff;
+    border: 0.3px solid black;
+}
+.img{
+    height: 230px;
+    width: 280px;
+    padding-left: 10px;
+    float: left;
+}
+.orderIcon{
+    width: 40px;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+.orderDetails-box-info{
+    width: 750px;
+    display: flex;
+}
+.orderImages{
+    width: 200px;
+    height: 200px;
+    display: flex;
+}
+.orderDetails-image-info{
+    width: 400px;
+    height: auto;
+    /* float: right; */
+    margin-left: 149px;
+}
+.image-info-btn{
+    border: none;
+    height: 35px;
+    width: 180px;
+    font-size:20px;
+    margin: 10px 20px 10px 0px;
+    background: #fff;
+    border-radius: 4px;
+}
+/* .fa-inr{
+    font-weight: 400;
+} */
+.AcceptDecline{
+    float: right;
+}
+.orderAccept{
+    background: #96ec6e;
+    height: 40px;
+    cursor: pointer;
+    width: 377px;
+    border: none;
+    margin: 10px 23px;
+    font-weight: 600;
+    font-size:15px ;
+    border-radius: 4px;
+}
+.orderDecline{
+    background: #f14f4f;
+    height: 40px;
+    cursor: pointer;
+    width: 377px;
+    border: none;
+    margin: 10px 23px;
+    font-weight: 600;
+    font-size:15px ;
+    border-radius: 4px;
+}

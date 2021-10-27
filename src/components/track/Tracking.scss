@@ -1,0 +1,89 @@
+.trackingBox{
+    margin: 100px auto 10px auto;
+
+
+    .trackingContainer{
+        background-color: #dbdee7;
+        display: flex;
+        padding-top: 20px;
+    }
+    .info{
+        display: flex;
+    }
+    .dInfo{
+        background-color: #eeeeee;
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 15px;
+        margin-left: 10px;
+    }
+    .dtime{
+        margin-bottom: 20px;
+    }
+    .trackingAdd{
+        margin-left: 5px;
+        display: flex;
+    }
+    .dInfo p{
+        margin: 0px;
+    }
+    .infoBox{
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 15px;
+    }
+    .centerUser{
+        align-items: center;
+        text-align: center;
+    }
+    .vnumber{
+        align-items: center;
+        background-color: #eeeeee;
+        height: 30px;
+        width: 315px;
+        text-align: center;
+        padding-top: 10px;
+        margin-left: 15%;
+    }
+    .from{
+        background-color: #eeeeee;
+        height: 60px;
+        width: 200px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .sline{
+        margin-top: 16px;
+    }
+    .truck{
+        margin-top: 5px;
+        background-color: #c4c4c4;
+        height: 60px;
+        width: 60px;
+        border-radius: 50%;
+        padding-left: 15px;
+    }
+    .lsr{
+        margin-left: 10px;
+    }
+    .rsr{
+        margin-right: 8px;
+    }
+    .userData{
+        background-color: #fff;
+        border-radius: 50px;
+        height: 70px;
+        width: 70px;
+        padding-top: 10px;
+        margin-left: 10px;
+        text-align: center
+    }
+    .userImg img{
+        height: 30px;
+    }
+    .centerUser{
+        margin-left: 20px;
+    }
+}
